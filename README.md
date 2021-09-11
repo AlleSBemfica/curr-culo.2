@@ -1,2 +1,2 @@
-# curr-culo.2
+# curriculo.2
 Desenvolvimento2
